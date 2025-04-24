@@ -1,10 +1,10 @@
 {
-	"серверы": "https://sakuramobile.ru/launcher/GameSettings/Servers.php",
-	"истории": "https://sakuramobile.ru/launcher/GameSettings/Stories.php",
-	"faq": "https://sakuramobile.ru/launcher/GameSettings/Faq.php",
-	"createCharacter": "https://sakuramobile.ru/launcher/GameSettings/Character.php",
-    "verifyAuth": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://sakuramobile.ru/launcher/GameSettings/AccountDetails.php",
-    "isAcc": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/IsAcc.php?edgar=1829top09",
+	"серверы": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/Servers.php",
+	"истории": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/Stories.php",
+	"faq": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/Faq.php",
+	"createCharacter": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/Character.php",
+    "verifyAuth": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/VerifyAuth.php",
+    "accountDetails": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/AccountDetails.php",
+    "isAcc": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/ef15523dd33c3d98cfcffa7fbd507488eb1a43a2/GameSettings/IsAcc.php",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 }
