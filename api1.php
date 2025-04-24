@@ -5,7 +5,7 @@
 	"launcher_name": "/launcher_space.apk",
 	"isTest": false,
 	"test_api": false,
-    "api": "https://raw.githubusercontent.com/edgardevwork/space-json-php/main/api/main.json?edgar=1829top09",
+    "api": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/main.json",
 	"archives": [
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
