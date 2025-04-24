@@ -1,10 +1,10 @@
 {
-	"серверы": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Servers.php?token=GHSAT0AAAAAADCX5TBT7E5O46JKCFPCSV4W2AJ3VAA",
-	"истории": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Stories.php?token=GHSAT0AAAAAADCX5TBS66XKTT4MGQDR5OD42AJ3VJA",
-	"faq": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Faq.php?token=GHSAT0AAAAAADCX5TBSU3L6RUDBH2YYK37Y2AJ3URA",
-	"createCharacter": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Character.php?token=GHSAT0AAAAAADCX5TBTIYAWLY45JZ3CM22S2AJ3UGQ",
-    "verifyAuth": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/VerifyAuth.php?token=GHSAT0AAAAAADCX5TBSNPLU3RP67U67W6MU2AJ3VRA",
-    "accountDetails": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/AccountDetails.php?token=GHSAT0AAAAAADCX5TBTNKQ7RKROPBKUKYJC2AJ3TZQ",
-    "isAcc": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/IsAcc.php?token=GHSAT0AAAAAADCX5TBTBRN6XWRRQEBZAWBC2AJ3UYQ",
+	"серверы": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Servers.php",
+	"истории": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Stories.php",
+	"faq": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Faq.php",
+	"createCharacter": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/Character.php",
+    "verifyAuth": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/VerifyAuth.php",
+    "accountDetails": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/AccountDetails.php",
+    "isAcc": "https://raw.githubusercontent.com/Dark-Angel-0-5/SakuraMobile/refs/heads/main/GameSettings/IsAcc.php",
     "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
 }
