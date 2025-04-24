@@ -5,7 +5,7 @@
 "launcher_name": "/SakuraMobile.apk",
 "isTest": false,
 "test_api": false,
-"api": "https://sakuramobile.ru/launcher/apiSettings.json",
+"api": "https://github.com/Dark-Angel-0-5/SakuraMobile/blob/5e7ef355283e792714caceeeebe2064b7daf7ab9/apiSettings.json",
 "archives": [
 {
 "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
